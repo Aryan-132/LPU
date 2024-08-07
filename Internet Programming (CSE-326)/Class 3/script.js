@@ -1,0 +1,1 @@
+alert("First website using maquee, Hope you will like this")
