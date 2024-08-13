@@ -1,4 +1,4 @@
-s="Welc0me to Coding"
+s="Welcome to Coding"
 
 for v in s:
     print(v,end="*")
